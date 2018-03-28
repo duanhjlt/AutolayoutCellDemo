@@ -405,7 +405,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = AutolayoutCellDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.comisys.AutolayoutCellDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.duanhongjin.AutolayoutCellDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -416,7 +416,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = AutolayoutCellDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.comisys.AutolayoutCellDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.duanhongjin.AutolayoutCellDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -427,7 +427,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = AutolayoutCellDemoTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.comisys.AutolayoutCellDemoTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.duanhongjin.AutolayoutCellDemoTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AutolayoutCellDemo.app/AutolayoutCellDemo";
 			};
@@ -439,7 +439,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = AutolayoutCellDemoTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.comisys.AutolayoutCellDemoTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.duanhongjin.AutolayoutCellDemoTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AutolayoutCellDemo.app/AutolayoutCellDemo";
 			};
@@ -450,7 +450,7 @@
 			buildSettings = {
 				INFOPLIST_FILE = AutolayoutCellDemoUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.comisys.AutolayoutCellDemoUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.duanhongjin.AutolayoutCellDemoUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = AutolayoutCellDemo;
 			};
@@ -461,7 +461,7 @@
 			buildSettings = {
 				INFOPLIST_FILE = AutolayoutCellDemoUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.comisys.AutolayoutCellDemoUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.duanhongjin.AutolayoutCellDemoUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = AutolayoutCellDemo;
 			};
@@ -486,6 +486,7 @@
 				2443E9001D1BB4F800EDB587 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2443E9011D1BB4F800EDB587 /* Build configuration list for PBXNativeTarget "AutolayoutCellDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -494,6 +495,7 @@
 				2443E9031D1BB4F800EDB587 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2443E9041D1BB4F800EDB587 /* Build configuration list for PBXNativeTarget "AutolayoutCellDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +504,7 @@
 				2443E9061D1BB4F800EDB587 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
